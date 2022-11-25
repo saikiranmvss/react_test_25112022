@@ -1,0 +1,28 @@
+body{
+    background:rgb(240 240 240);    
+    font-family: 'Helvetica';
+}
+.login-form input{
+width: 100%;
+border-radius: 5px;
+padding: 15px;
+}
+.form-fields{
+margin-top: 0.7rem;
+margin-bottom: 0.7rem;
+}
+.form-box{
+    border: 2px solid rgb(255 255 255);
+    background: rgb(255 255 255);
+    border-radius: 5px;
+    box-shadow: 1px 6px 12px 8px #0000004a;
+    margin: 1rem;
+}
+.title-text{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(228 183 116);
+    letter-spacing: 0.6rem;
+    display: flex;
+    justify-content: center;
+}
